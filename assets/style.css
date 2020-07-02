@@ -57,6 +57,8 @@ nav {
 
 nav li {
     list-style: none;
+    display: inline;
+    margin-left: 2ch;
 }
 
 .section-title {
